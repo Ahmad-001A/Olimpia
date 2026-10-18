@@ -1,0 +1,23 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.log
+
+# Dependencies and builds
+node_modules/
+.next/
+out/
+build/
+dist/
+.vercel/
+
+# Secrets: do not upload them to GitHub
+.env
+.env.local
+.env.*.local
